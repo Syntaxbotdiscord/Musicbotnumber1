@@ -1,0 +1,6 @@
+token=NTAzOTMyOTg4MTIwMzY3MTE0.Dq95rQ.fieONHGf93D0H6Sd5xXSEgagACk
+owner=300306052610523136
+prefix=m
+game=
+stayinchannel=true
+songinstatus=false
